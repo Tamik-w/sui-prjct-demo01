@@ -153,7 +153,7 @@ body .main-container .main-container-main .cards-container .card-line-one .card:
   padding-left: 0px;
 }
 body .main-container .main-container-main .cards-container .card-line-one .card:nth-child(3) {
-  padding-right: 0px;
+  padding-right: 16px;
 }
 body .main-container .main-container-main .cards-container .card-line-one .card {
   padding: 30px;
